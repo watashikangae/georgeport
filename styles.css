@@ -1,15 +1,11 @@
-.custom-gradient {
-  background: linear-gradient(90deg, #16a34a, #86efac);
+/* Original styles.css content from commit 6fe630c0b66db3510569735e57f1d5bc6cb1933d */
+-body {
+    background-color: white;
+    color: black;
 }
-.another-gradient {
-  background: linear-gradient(90deg, #15803d, #166534);
+
+h1 {
+    color: blue;
 }
-.yet-another-gradient {
-  background: linear-gradient(90deg, #bbf7d0, #15a34a);
-}
-.different-gradient {
-  background: linear-gradient(90deg, #22c55e, #86efac);
-}
-.final-gradient {
-  background: linear-gradient(90deg, #16a34a, #dcfce7);
-}
+
+/* Additional CSS rules... */
